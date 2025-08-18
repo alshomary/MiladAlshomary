@@ -6,75 +6,56 @@ Configuration file: /home/malshomary/Development/MiladAlshomary/_config.yml
 "Fetching external posts from medium.com:"
 "...fetching https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2"
        Jekyll Feed: Generating feed for posts
-       Imagemagick: Searching files in /home/malshomary/Development/MiladAlshomary/assets/img/
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/1-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/1-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/1-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/10-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/10-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/10-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/11-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/11-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/11-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/12-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/12-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/12-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/2-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/2-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/2-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/3-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/3-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/3-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/4-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/4-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/4-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/5-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/5-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/5-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/6-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/6-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/6-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/7-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/7-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/7-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/8-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/8-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/8-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/9-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/9-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/9-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-1400.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-480.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-800.webp
-       Imagemagick: Adding static file /home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-1400.webp
-       Imagemagick: Generated 0 file(s)
+       Imagemagick: Disabled in site.config
          AutoPages: Disabled/Not configured in site.config.
 [33m        Pagination: Is enabled, but I couldn't find any pagination page. Skipping pagination. Pages must have 'pagination: enabled: true' in their front-matter for pagination to work.[0m
         Pagination: Complete, processed pagination page(s)
 [33m   Jekyll Diagrams: Command Not Found: mmdc[0m
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+4 │ @import "variables";
+  │         ^^^^^^^^^^^
+  ╵
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+5 │ @import "themes";
+  │         ^^^^^^^^
+  ╵
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 5:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+6 │ @import "layout";
+  │         ^^^^^^^^
+  ╵
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 6:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+7 │ @import "base";
+  │         ^^^^^^
+  ╵
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 7:9  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+8 │ @import "distill";
+  │         ^^^^^^^^^
+  ╵
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 8:9  root stylesheet
 DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
 Use color.adjust instead.
 
@@ -84,8 +65,8 @@ More info and automated migrator: https://sass-lang.com/d/import
 13 │ $light-cyan-color:    lighten($cyan-color, 25%);
    │                       ^^^^^^^^^^^^^^^^^^^^^^^^^
    ╵
-    _variables.scss 13:23                                                 @use
-    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:1  root stylesheet
+    _variables.scss 13:23                                                 @import
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:9  root stylesheet
 DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
 
 color.scale($color, $lightness: 44.5804195804%)
@@ -97,8 +78,8 @@ More info: https://sass-lang.com/d/color-functions
 13 │ $light-cyan-color:    lighten($cyan-color, 25%);
    │                       ^^^^^^^^^^^^^^^^^^^^^^^^^
    ╵
-    _variables.scss 13:23                                                 @use
-    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:1  root stylesheet
+    _variables.scss 13:23                                                 @import
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:9  root stylesheet
 DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
 Use color.adjust instead.
 
@@ -108,8 +89,8 @@ More info and automated migrator: https://sass-lang.com/d/import
 20 │ $light-purple-color:  lighten($purple-color, 25%);
    │                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
    ╵
-    _variables.scss 20:23                                                 @use
-    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:1  root stylesheet
+    _variables.scss 20:23                                                 @import
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:9  root stylesheet
 DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
 
 color.scale($color, $lightness: 39.84375%)
@@ -121,8 +102,8 @@ More info: https://sass-lang.com/d/color-functions
 20 │ $light-purple-color:  lighten($purple-color, 25%);
    │                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
    ╵
-    _variables.scss 20:23                                                 @use
-    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:1  root stylesheet
+    _variables.scss 20:23                                                 @import
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:9  root stylesheet
 DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
 Use color.adjust instead.
 
@@ -132,8 +113,8 @@ More info and automated migrator: https://sass-lang.com/d/import
 26 │ $grey-color-light:    lighten($grey-color, 40%);
    │                       ^^^^^^^^^^^^^^^^^^^^^^^^^
    ╵
-    _variables.scss 26:23                                                 @use
-    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:1  root stylesheet
+    _variables.scss 26:23                                                 @import
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:9  root stylesheet
 DEPRECATION WARNING [color-functions]: lighten() is deprecated. Suggestions:
 
 color.scale($color, $lightness: 81.6%)
@@ -145,8 +126,8 @@ More info: https://sass-lang.com/d/color-functions
 26 │ $grey-color-light:    lighten($grey-color, 40%);
    │                       ^^^^^^^^^^^^^^^^^^^^^^^^^
    ╵
-    _variables.scss 26:23                                                 @use
-    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:1  root stylesheet
+    _variables.scss 26:23                                                 @import
+    /home/malshomary/Development/MiladAlshomary/assets/css/main.scss 4:9  root stylesheet
 [33m          Conflict: The following destination is shared by multiple files.[0m
 [33m                    The written file may end up with unexpected contents.[0m
 [33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/css/main.css[0m[0m
@@ -159,384 +140,6 @@ More info: https://sass-lang.com/d/color-functions
 [33m                     - assets/css/main.css.map[0m
 [33m                     - /home/malshomary/Development/MiladAlshomary/assets/css/main.css.map[0m
 [33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/1-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/1-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/1-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/1-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/1-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/1-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/1-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/1-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/1-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/10-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/10-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/10-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/10-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/10-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/10-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/10-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/10-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/10-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/11-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/11-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/11-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/11-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/11-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/11-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/11-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/11-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/11-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/12-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/12-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/12-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/12-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/12-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/12-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/12-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/12-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/12-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/2-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/2-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/2-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/2-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/2-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/2-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/2-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/2-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/2-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/3-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/3-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/3-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/3-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/3-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/3-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/3-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/3-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/3-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/4-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/4-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/4-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/4-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/4-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/4-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/4-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/4-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/4-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/5-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/5-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/5-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/5-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/5-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/5-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/5-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/5-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/5-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/6-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/6-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/6-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/6-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/6-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/6-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/6-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/6-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/6-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/7-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/7-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/7-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/7-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/7-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/7-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/7-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/7-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/7-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/8-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/8-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/8-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/8-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/8-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/8-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/8-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/8-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/8-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/9-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/9-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/9-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/9-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/9-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/9-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/9-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/9-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/9-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/al-folio-preview-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/al-folio-preview-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/al-folio-preview-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/al-folio-preview-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/code-screenshot-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/code-screenshot-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/code-screenshot-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/code-screenshot-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/distill-screenshot-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/distill-screenshot-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/distill-screenshot-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/distill-screenshot-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/math-screenshot-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/math-screenshot-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/math-screenshot-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/math-screenshot-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/milad_photo-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/milad_photo-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/milad_photo-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/milad_photo-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/photos-screenshot-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/photos-screenshot-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/photos-screenshot-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/photos-screenshot-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/prof_pic-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/prof_pic-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/prof_pic-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/prof_pic-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/projects-screenshot-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/projects-screenshot-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/projects-screenshot-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/projects-screenshot-800.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-1400.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/publications-screenshot-1400.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-1400.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-480.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/publications-screenshot-480.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-480.webp[0m
-[33m                    [0m
-[33m          Conflict: The following destination is shared by multiple files.[0m
-[33m                    The written file may end up with unexpected contents.[0m
-[33m                    [36m/home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-800.webp[0m[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/assets/img/publications-screenshot-800.webp[0m
-[33m                     - /home/malshomary/Development/MiladAlshomary/_site/assets/img/publications-screenshot-800.webp[0m
-[33m                    [0m
    Jekyll Minifier: Filtering out legacy 'harmony' option from uglifier_args
    Jekyll Minifier: Filtering out legacy 'harmony' option from uglifier_args
    Jekyll Minifier: Filtering out legacy 'harmony' option from uglifier_args
@@ -701,5 +304,5 @@ More info: https://sass-lang.com/d/color-functions
    Jekyll Minifier: Filtering out legacy 'harmony' option from uglifier_args
    Jekyll Minifier: Filtering out legacy 'harmony' option from uglifier_args
    Jekyll Minifier: Filtering out legacy 'harmony' option from uglifier_args
-                    done in 1.36 seconds.
+                    done in 1.374 seconds.
  Auto-regeneration: disabled. Use --watch to enable.

@@ -1,11 +1,15 @@
 ---
+# Only the main Sass file needs front matter
 ---
 
 @charset "utf-8";
 
+// Import order matters: variables first
+@import "variables";
+@import "themes";
+@import "layout";
+@import "base";
+@import "distill";
 
-@use "variables" as *;
-@use "themes" as *;
-@use "layout" as *;
-@use "base" as *;
-@use "distill" as *;
+// Custom variables (if needed)
+$max-content-width: {{ site.max_width }};
